@@ -1,0 +1,13 @@
+export/
+export_zh/
+site/img/
+site/preview*.png
+site/repo-check.png
+site/README.txt
+*.ps1
+cap.json
+partial_codex.json
+root.json
+token.json
+token2.json
+js/

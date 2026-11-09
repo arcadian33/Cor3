@@ -1,0 +1,23 @@
+# companion_registry.txt
+
+- 分类：Entry 2: The Journey
+- 类型：MARKDOWN
+- entryId：019daf90-471e-78af-91ee-3321f2c98227
+
+---
+
+COMPANION REGISTRY
+internal use only
+
+ID      NAME       STATUS        NOTES
+
+C-014   Alina      Active        Standard availability
+C-018   Bianca     Active        High demand
+C-021   Clara      Limited       Reduced hours
+C-027   Daria      Active        Experienced
+C-030   Elise      Active        Conversation only
+C-034   Emilia     Active        Restricted
+C-037   Freya      Active        Late hours preferred
+C-041   Iris       Active        Boundaries enforced
+C-045   Mila       Active        Variable availability
+C-052   Sophia     Active        Repeat clients only
